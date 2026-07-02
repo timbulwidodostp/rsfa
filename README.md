@@ -1,6 +1,8 @@
 # rsfa
 Robust Estimation of Stochastic Frontier Models Use rsfa (robustSFA) With (In) R Software
 
+https://www.youtube.com/watch?v=2pCmEJOCbf8
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
